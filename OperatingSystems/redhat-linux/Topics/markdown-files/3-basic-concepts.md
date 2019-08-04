@@ -1,15 +1,19 @@
-# Day 1 
-As shown in the infograph we will break down Day 1 into 5 Concepts with some extra essential commands.
-Download all the resources from [here](https://drive.google.com/drive/folders/1zYxkQMhYTCF0PA8dKuSDAqE9X8zMO37o?usp=sharing) that are needed to perform all the activities mentioned here.
+<p align="center">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
+</p>
+You can download all the softwares you will be needing for Red-Hat-Linux from [here.](https://drive.google.com/drive/folders/1KfSNLBGaEfTLVgLFIrZGA0ZtUnnbiC29?usp=sharing)
+<p align="center">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/1.jpg">
+</p>
 
 ## Concept 1: Setup VirtualBox & Virtual Machine
 <p align="center">
-  <img src="https://github.com/mridul-arora/Linux-World/blob/master/infographs/Day%201/3.jpg">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/2.jpg">
 </p>
 
 Resources you will need here are:
 1. rhel-server-7.5-x86_64-dvd.iso
-2. Oracle_VM_VirtualBox_Extension_Pack-5.2.18 (1).vbox-extpack
+2. Oracle_VM_VirtualBox_Extension_Pack-5.2.18.vbox-extpack
 
 > Note: You don't need to download any software from the internet. Everything is available in the [resources](https://drive.google.com/drive/folders/1zYxkQMhYTCF0PA8dKuSDAqE9X8zMO37o?usp=sharing) folder.
 
@@ -29,7 +33,8 @@ dhclient : provides a means for configuring one or more network interfaces using
 
 ## Concept 2: Transfer Resource files using WinSCP
 <p align="center">
-  <img src="https://github.com/mridul-arora/Linux-World/blob/master/infographs/Day%201/4.jpg">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/3.jpg
+">
 </p>
 Here Resource files are to be transferred from Windows(base OS) to Linux(virtual OS) using WinSCP software. Resources you will need here are:<br>
 1. WinSCP.exe<br>
@@ -42,7 +47,7 @@ Follow this [video](https://youtu.be/HUHBwU5FHag) and drag and drop the python_l
 
 ## Concept 3: Setting up a local YUM Repository
 <p align="center">
-  <img src="https://github.com/mridul-arora/Linux-World/blob/master/infographs/Day%201/5.jpg">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/4.jpg">
 </p>
 
 ### Step 1:
@@ -95,81 +100,6 @@ To verify the repositories type command
 ```bash
 [root@localhost ~]# yum repolist
 ```
-
-## Concept 4: Introduction to Python
-<p align="center">
-  <img src="https://github.com/mridul-arora/Linux-World/blob/master/infographs/Day%201/6.jpg">
-</p>
-
-### Step 1: 
-Install python36 and python36-pip
-```bash
-[root@localhost ~]# yum install python36
-[root@localhost ~]# yum install python36-pip(press the Tab button to auto-complete)
-```
-
-## Basic Python Commands
- 
-1. To open python in terminal.
-```bash
-[root@localhost ~]# python3.6
-```
-2. To exit python from terminal.
-```bash
->>> exit()
-[root@localhost ~]#
-```
-
-3. To print 
-```bash
->>> print("Hi")
-Hi
->>> x=5
->>> print(x)
-5
-```
-
-4. To check the datatype of any variable
-```bash
->>> x=5
->>> type(x)
-<class 'int'>
-```
-type inference means that python can identify the datatype on its own i.e. there is no need to define the type.
-
-5. To run linux commands in python, use system function by importing os module.
-```bash
-[root@localhost ~]# python3.6
->>> import os
->>> os.system("date")
-Thu Jun  6 18:19:15 EDT 2019
-0
->>> exit()
-```
-
-## Concept 5: Introduction to Computer Vision
-<p align="center">
-  <img src="https://github.com/mridul-arora/Linux-World/blob/master/infographs/Day%201/7.jpg">
-</p>
-
-### Step 1: 
-Install OpenCV python library from local repository
-
-#### Case I: 
-Download and install from the internet
-```bash
-[root@localhost ~]# pip3.6 install opencv
-```
-#### Case II:
-Installation from local repository
-
-Goto python_lib located on your Desktop. Right click and click on Open in Terminal. Now, type commands
-```bash
-[root@localhost python_lib]# pip3.6 install opencv_py(press Tab) --no-index -f . 
-```
-* --no-index : means to install without using internet i.e. local installation
-* -f : to take the address i.e. exactly where to store the files
-* . : dot is for current folder
 
 ## Some more Linux commands
 

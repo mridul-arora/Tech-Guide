@@ -1,7 +1,11 @@
 # Tech-Guide
 A place where you can find and even contribute all the detailed concepts you know or should be knowing about mostly every technology. 
 
+<p align="center">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
+</p>
+1. [Basic Concepts](https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/markdown-files/3-basic-concepts.md)
 
 
-# TO CONTRIBUTE 
- GO HERE TO READ ABOUT IT MORE
+# CONTRIBUTE 
+To contribute and know more about it click [here.]()
