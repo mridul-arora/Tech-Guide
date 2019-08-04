@@ -24,6 +24,6 @@ After configuring bridge-adapter type these two commands
 dhclient : provides a means for configuring one or more network interfaces using the Dynamic Host Configuration Protocol
 
 <p align="center">
-  <img float="left" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous-48.png">
-  <img float="right" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next-48.png">
+    <img  src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
+    Transfer directories &amp; files using WinSCP
 </p>

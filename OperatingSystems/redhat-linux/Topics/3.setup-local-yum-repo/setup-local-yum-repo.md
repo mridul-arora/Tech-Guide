@@ -53,3 +53,9 @@ To verify the repositories type command
 ```bash
 [root@localhost ~]# yum repolist
 ```
+
+<p align="center">
+    Transfer directories &amp; files using WinSCP
+    <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
+    <img  src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
+</p>
