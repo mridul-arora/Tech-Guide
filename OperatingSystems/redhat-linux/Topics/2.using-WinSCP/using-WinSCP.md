@@ -4,10 +4,10 @@
 </p>
 
 <div align="left">
-<a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/1.setup-VB&VM/setup-VB&VM.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
-</a>
-<br>
-Setting up Virtual Box &amp; Virtual Machine            
+    Setting up Virtual Box &amp; Virtual Machine
+    <br>
+    <a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/1.setup-VB&VM/setup-VB&VM.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
+</a>            
 </div>  
 
 Here, directories are supposed to be transferred from Windows(base OS) to Linux(virtual OS) using WinSCP software. To do that you need the WinSCP software along with the directories to be transferred.<br>
