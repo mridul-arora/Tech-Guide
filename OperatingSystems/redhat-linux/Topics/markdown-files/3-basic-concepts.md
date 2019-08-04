@@ -1,13 +1,9 @@
 <p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
-</p>
-
-<p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/1.jpg">
 </p>
 
 You can download all the softwares you will be needing for Red-Hat-Linux from [here](https://drive.google.com/drive/folders/1KfSNLBGaEfTLVgLFIrZGA0ZtUnnbiC29?usp=sharing).
-<br><br>
 
 ## Concept 1: Setup VirtualBox & Virtual Machine
 <p align="center">
@@ -36,8 +32,7 @@ dhclient : provides a means for configuring one or more network interfaces using
 
 ## Concept 2: Transfer Resource files using WinSCP
 <p align="center">
-  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/3.jpg
-">
+  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/3.jpg">
 </p>
 Here Resource files are to be transferred from Windows(base OS) to Linux(virtual OS) using WinSCP software. Resources you will need here are:<br>
 1. WinSCP.exe<br>
