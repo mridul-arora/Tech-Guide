@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
 </p>
+<br>
 You can download all the softwares you will be needing for Red-Hat-Linux from [here.](https://drive.google.com/drive/folders/1KfSNLBGaEfTLVgLFIrZGA0ZtUnnbiC29?usp=sharing)
-
+<br>
 <p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/1.jpg">
 </p>
