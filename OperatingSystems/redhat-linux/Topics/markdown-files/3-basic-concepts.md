@@ -1,13 +1,13 @@
 <p align="center">
   <img width="100%" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
-  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/1.jpg">
+  <img width="100%" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/1.jpg">
 </p>
 
 You can download all the softwares you will be needing for Red-Hat-Linux from [here](https://drive.google.com/drive/folders/1KfSNLBGaEfTLVgLFIrZGA0ZtUnnbiC29?usp=sharing).
 
 ## Concept 1: Setup VirtualBox & Virtual Machine
 <p align="center">
-  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/2.jpg">
+  <img width="100%" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/2.jpg">
 </p>
 
 Resources you will need here are:
@@ -32,7 +32,7 @@ dhclient : provides a means for configuring one or more network interfaces using
 
 ## Concept 2: Transfer Resource files using WinSCP
 <p align="center">
-  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/3.jpg">
+  <img width="100%" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/3.jpg">
 </p>
 Here Resource files are to be transferred from Windows(base OS) to Linux(virtual OS) using WinSCP software. Resources you will need here are:<br>
 1. WinSCP.exe<br>
@@ -45,7 +45,7 @@ Follow this [video](https://youtu.be/HUHBwU5FHag) and drag and drop the python_l
 
 ## Concept 3: Setting up a local YUM Repository
 <p align="center">
-  <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/4.jpg">
+  <img width="100%" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/4.jpg">
 </p>
 
 ### Step 1:
