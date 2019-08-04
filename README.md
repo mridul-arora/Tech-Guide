@@ -4,8 +4,9 @@ A place where you can find and even contribute all the detailed concepts you kno
 <p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
 </p>
-1. [Basic Concepts](https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/markdown-files/3-basic-concepts.md)
+
+1.  [Basic Concepts](https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/markdown-files/3-basic-concepts.md)
 
 
 # CONTRIBUTE 
-To contribute and know more about it click [here.]()
+For more information on how to contribute click [here.]()
