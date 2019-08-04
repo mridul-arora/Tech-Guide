@@ -25,6 +25,6 @@ dhclient : provides a means for configuring one or more network interfaces using
 
 <p align="right">
     <a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/3.setup-local-yum-repo/setup-local-yum-repo.md">
-        <img  src="../../small-next.png"> Transfer directories &amp; files using WinSCP
-    </a>
+        <img  src="../../next.png">
+    </a> Transfer directories &amp; files using WinSCP
 </p>
