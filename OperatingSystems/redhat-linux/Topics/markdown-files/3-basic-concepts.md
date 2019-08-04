@@ -1,11 +1,13 @@
 <p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/redhat-linux.jpg">
 </p>
-You can download all the softwares you will be needing for Red-Hat-Linux from [here.](https://drive.google.com/drive/folders/1KfSNLBGaEfTLVgLFIrZGA0ZtUnnbiC29?usp=sharing)
-<br><br>
+
 <p align="center">
   <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/Infographs/3-basic-concepts/1.jpg">
 </p>
+
+You can download all the softwares you will be needing for Red-Hat-Linux from [here](https://drive.google.com/drive/folders/1KfSNLBGaEfTLVgLFIrZGA0ZtUnnbiC29?usp=sharing).
+<br><br>
 
 ## Concept 1: Setup VirtualBox & Virtual Machine
 <p align="center">
@@ -16,7 +18,7 @@ Resources you will need here are:
 1. rhel-server-7.5-x86_64-dvd.iso
 2. Oracle_VM_VirtualBox_Extension_Pack-5.2.18.vbox-extpack
 
-> Note: You don't need to download any software from the internet. Everything is available in the [resources](https://drive.google.com/drive/folders/1zYxkQMhYTCF0PA8dKuSDAqE9X8zMO37o?usp=sharing) folder.
+***Note: You don't need to download any software from the internet. Everything is available [here](https://drive.google.com/drive/folders/1zYxkQMhYTCF0PA8dKuSDAqE9X8zMO37o?usp=sharing) with you.***
 
 ### Step 1: 
 Follow the [video](https://youtu.be/mflqkyO00EI) to setup the RHEL virtual machine. Allocate 50 GB instead of 20 GB in the size of your virtual hard disk with half of the RAM you have in your base system. 
