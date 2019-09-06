@@ -4,9 +4,9 @@
 </p>
 
 <div align="left">
-    **Setting up Virtual Box &amp; Virtual Machine**
-    <br>
-    <a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/1.setup-VB&VM/setup-VB&VM.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
+<b>Setting up Virtual Box &amp; Virtual Machine</b>
+<br>
+<a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/1.setup-VB&VM/setup-VB&VM.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
 </a>            
 </div><br>  
 
@@ -20,6 +20,6 @@ Follow this [video](https://youtu.be/HUHBwU5FHag) and drag and drop all the dire
 <a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/3.setup-local-yum-repo/setup-local-yum-repo.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
 </a>
 <br>
-**Setting up Local YUM Repositories**
+<b>Setting up Local YUM Repositories</b>
 </div>
 
