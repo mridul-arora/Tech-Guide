@@ -3,6 +3,13 @@
   <img width="100%" src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/3.setup-local-yum-repo/1.jpg">
 </p>
 
+<div align="left">
+<b>Transfer Directories &amp; files using WinSCP</b>
+<br>
+<a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/2.using-WinSCP/using-WinSCP.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
+</a>            
+</div><br> 
+
 ### Step 1:
 In the bottom right corner of the VirtualBox VM Window there are a few icons. Right Click on the second icon which is in the shape of a disk and select the RHEL ISO file. A Disk icon will be displayed on the Desktop. Right click on that icon and select Open in Terminal.
 
@@ -54,8 +61,10 @@ To verify the repositories type command
 [root@localhost ~]# yum repolist
 ```
 
-<p align="center">
-    Transfer directories &amp; files using WinSCP
-    <img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/previous.png">
-    <img  src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
-</p>
+<br>
+<div align="right">
+<a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/3.setup-local-yum-repo/setup-local-yum-repo.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
+</a>
+<br>
+<b>4th Waaala</b>
+</div>
