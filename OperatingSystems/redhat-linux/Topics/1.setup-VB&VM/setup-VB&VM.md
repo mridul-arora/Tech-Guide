@@ -25,7 +25,7 @@ dhclient : provides a means for configuring one or more network interfaces using
 
 <br>
 <div align="right">
-<a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linuxTopics/2.using-WinSCP/using-WinSCP.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
+<a href="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/Topics/2.using-WinSCP/using-WinSCP.md"><img src="https://github.com/mridul-arora/Tech-Guide/blob/master/OperatingSystems/redhat-linux/next.png">
 </a>
 <br>
 <b>Transfer Directories &amp; files using WinSCP</b>
